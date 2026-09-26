@@ -11,8 +11,8 @@ The Multiply-Accumulate (MAC) operation is widely used in DSP, machine learning 
 This project implements:
 
 \[
-Accumulator = Accumulator + (A \times B)
-\]
+Accumulator = Accumulator + (A * B)
+]
 
 where:
 
