@@ -143,22 +143,6 @@ A self-checking testbench was developed to verify:
 
 ---
 
-## 📸 Results
-
-### Simulation Waveform
-
-![Waveform](results/waveform.png)
-
-### Timing Analysis
-
-![Timing Report](results/timing_report.png)
-
-### Synthesis Summary
-
-![Synthesis Report](results/synthesis_report.png)
-
----
-
 ## 📊 Synthesis Results
 
 Target Device:
